@@ -8,4 +8,3 @@ Leetcode Coding and Interview Question sets -
 1. Go inside necessary folder.
 2. node <file_name.js>
 
-
